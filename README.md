@@ -1,5 +1,5 @@
 ## Como criar e configurar uma máquina virtual na plataforma Microsoft Azure
-<sub> Prática do processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure. <\sub>
+<sub> Prática do processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure.
 
 ---
 
